@@ -1,0 +1,10 @@
+{
+  "columns extracted": [
+    "DriverId",
+    "DriverName",
+    "DOB",
+    "Nationality",
+    "Number",
+    "Season"
+  ]
+}

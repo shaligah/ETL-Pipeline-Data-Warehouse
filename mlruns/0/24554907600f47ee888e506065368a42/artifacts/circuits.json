@@ -1,0 +1,11 @@
+{
+  "columns extracted": [
+    "CircuitId",
+    "CircuitName",
+    "Country",
+    "City",
+    "Longitude",
+    "Latitude",
+    "Season"
+  ]
+}

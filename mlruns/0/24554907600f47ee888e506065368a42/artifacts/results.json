@@ -1,0 +1,15 @@
+{
+  "columns extracted": [
+    "RaceName",
+    "Round",
+    "Season",
+    "CircuitName",
+    "DriverName",
+    "grid",
+    "laps",
+    "status",
+    "position",
+    "Time",
+    "Constructor"
+  ]
+}
