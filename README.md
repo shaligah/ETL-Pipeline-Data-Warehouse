@@ -6,7 +6,7 @@
 [![MLflow](https://img.shields.io/badge/MLflow-Enabled-blue)](https://mlflow.org/)
 ![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg)
 
-Welcome to the **F1 ETL Pipeline**, built by [@shaligah](https://github.com/shaligah), where raw Formula 1 data becomes fast, structured insights. 🏁
+Welcome to the **F1 ETL Pipeline**, where raw Formula 1 data becomes fast, structured insights. 🏁
 
 This project scrapes, transforms, and loads historical F1 data into a data warehouse, with MLflow tracking and optional scheduling for regular updates.
 
