@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![MLflow](https://img.shields.io/badge/MLflow-Enabled-blue)](https://mlflow.org/)
-[![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg)]
+![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg)
 
 Welcome to the **F1 ETL Pipeline**, built by [@shaligah](https://github.com/shaligah), where raw Formula 1 data becomes fast, structured insights. 🏁
 
