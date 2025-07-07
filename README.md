@@ -19,7 +19,7 @@ This project scrapes, transforms, and loads historical F1 data into a data wareh
 
 ## ⚙️ Features
 
-- ✅ Extracts F1 race data (2024-2025) using [Jolpi API](https://docs.jolpi.ca/)
+- ✅ Extracts F1 race data (2024-2025) using [Jolpi API](https://jolpi.ca/)
 - ✅ Transforms raw JSON into normalized tables
 - ✅ Loads structured data into a **SQLite database**
 - ✅ Tracks runs, metrics, and artifacts with **MLflow**
