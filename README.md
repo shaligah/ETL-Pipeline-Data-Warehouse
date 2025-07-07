@@ -32,3 +32,4 @@ This project scrapes, transforms, and loads historical F1 data into a data wareh
 ## 🧪✨ Try it out!!!!
 
 - Run the main notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/shaligah/4bbf3b61602b32e3fa5156b329c38f26/pipeline.ipynb)
+- Test out the warehouse [![Open Test In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/shaligah/0b921b77538c942eb6aab51f85649b9a/test.ipynb)
